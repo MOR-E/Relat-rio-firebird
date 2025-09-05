@@ -1,0 +1,4 @@
+dsn=C:\Program Files (x86)\Eagle\Eagle Gestao\Data\OPERACIONAL.FDB
+user=SYSDBA
+password=masterkey
+charset=UTF8
